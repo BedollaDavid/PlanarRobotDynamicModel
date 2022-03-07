@@ -9,7 +9,7 @@ It is a script that can generate the matrices M, C and G for the following equat
 ### **How to use it?**
 **Step 1:** Install the robotic toolbox.\
 **Step 2:** Run the MAIN file.\
-**Step 3:** Read the code carefully.\
+**Step 3:** Read the code carefully.
 
 ![grab-landing-page](https://github.com/BedollaDavid/PlanarRobotDynamicModel/blob/main/planar.jpg)
 
