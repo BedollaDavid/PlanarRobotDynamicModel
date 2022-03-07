@@ -14,8 +14,8 @@ It is a script that can generate the matrices M, C and G for the following equat
 ![grab-landing-page](https://github.com/BedollaDavid/PlanarRobotDynamicModel/blob/main/planar.jpg)
 
 
-To download the Robotics Toolbox go to:\
-https://petercorke.com/toolboxes/robotics-toolbox/ \
+To download the Robotics Toolbox go to: .\
+https://petercorke.com/toolboxes/robotics-toolbox/ .\
 
 To install the Robotics Toolbox follow the steps. \
 1. Open Matlab.\
