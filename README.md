@@ -6,7 +6,6 @@ It is a script that can generate the matrices M, C and G for the following equat
 ### **What will you obtain?**
 • A 3D representation of the robot's current configuration.\
 • Each matrix generated will be saved into .txt or .m files.
-• 
 ### **How to use it?**
 **Step 1:** Install the robotic toolbox.\
 **Step 2:** Run the MAIN file.\
