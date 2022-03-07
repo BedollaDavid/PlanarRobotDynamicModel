@@ -2,7 +2,7 @@
 A code to generate the dynamic model of any Planar Robot using the Robotics Toolbox
 
 ### **What is this?**
-It is a script that can generate the matrices M, C and G for the following equation 'M*Qdd+C*Qd+G=tau'
+It is a script that saves the generated matrices M, C and G for the following equation 'M*Qdd+C*Qd+G=tau'.
 ### **What will you obtain?**
 • A 3D representation of the robot's current configuration.\
 • Each matrix generated will be saved into .txt or .m files.
